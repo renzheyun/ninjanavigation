@@ -1,0 +1,23 @@
+{
+  "name": "忍者云智能导航",
+  "short_name": "忍者云导航",
+  "description": "实时检测忍者云官网线路，推荐延迟最低的可用域名并由用户确认进入。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f9fcfe",
+  "theme_color": "#168dbc",
+  "icons": [
+    {
+      "src": "./assets/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/logo.png",
+      "sizes": "275x275",
+      "type": "image/png"
+    }
+  ]
+}
